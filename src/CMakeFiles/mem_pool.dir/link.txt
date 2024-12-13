@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mem_pool.dir/main.c.o CMakeFiles/mem_pool.dir/mem_alloc.c.o CMakeFiles/mem_pool.dir/mem_pool_palloc.c.o -o mem_pool 
